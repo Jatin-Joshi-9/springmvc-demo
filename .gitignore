@@ -14,6 +14,9 @@ target/
 .sts4-cache
 HELP.md
 mvnw
+.mvn
+mvnw.cmd
+src/test
 .idea
 ### IntelliJ IDEA ###
 .idea
